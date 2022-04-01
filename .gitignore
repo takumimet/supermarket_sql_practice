@@ -1,0 +1,3 @@
+# Ignores files
+settings.py
+__pycache__/
